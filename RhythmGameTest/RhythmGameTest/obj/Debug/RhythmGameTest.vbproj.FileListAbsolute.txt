@@ -1,0 +1,12 @@
+C:\Users\Patrick\source\repos\RhythmGameTest\RhythmGameTest\bin\Debug\RhythmGameTest.exe.config
+C:\Users\Patrick\source\repos\RhythmGameTest\RhythmGameTest\bin\Debug\RhythmGameTest.exe
+C:\Users\Patrick\source\repos\RhythmGameTest\RhythmGameTest\bin\Debug\RhythmGameTest.pdb
+C:\Users\Patrick\source\repos\RhythmGameTest\RhythmGameTest\bin\Debug\RhythmGameTest.xml
+C:\Users\Patrick\source\repos\RhythmGameTest\RhythmGameTest\obj\Debug\RhythmGameTest.vbprojAssemblyReference.cache
+C:\Users\Patrick\source\repos\RhythmGameTest\RhythmGameTest\obj\Debug\RhythmGameTest.Form1.resources
+C:\Users\Patrick\source\repos\RhythmGameTest\RhythmGameTest\obj\Debug\RhythmGameTest.Resources.resources
+C:\Users\Patrick\source\repos\RhythmGameTest\RhythmGameTest\obj\Debug\RhythmGameTest.vbproj.GenerateResource.cache
+C:\Users\Patrick\source\repos\RhythmGameTest\RhythmGameTest\obj\Debug\RhythmGameTest.vbproj.CoreCompileInputs.cache
+C:\Users\Patrick\source\repos\RhythmGameTest\RhythmGameTest\obj\Debug\RhythmGameTest.exe
+C:\Users\Patrick\source\repos\RhythmGameTest\RhythmGameTest\obj\Debug\RhythmGameTest.xml
+C:\Users\Patrick\source\repos\RhythmGameTest\RhythmGameTest\obj\Debug\RhythmGameTest.pdb
